@@ -23,4 +23,7 @@ https://www.hex-rays.com/products/ida/7.2/the_mac_rundown/the_mac_rundown.shtml
 5. Slow load time, code signing, and the sandbox container
 https://michelf.ca/blog/2018/slow-load-time-code-sign-sandbox-container/
 
+6. DYLD加载Mach-O完整流程
+http://blog.anyhong.com/posts/dyld-load-macho.html
+
 ## _dyld_start
